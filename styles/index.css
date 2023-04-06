@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  color: inherit;
+}
+
+#root {
+  height: 100%;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Elon's personal website",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edje-C/Site.git"
+  },
+  "author": "Elon Jefferson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edje-C/Site/issues"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^6.10.0",
+    "styled-components": "^5.3.9"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.31",
+    "@types/react-helmet": "^6.1.6",
+    "@types/styled-components": "^5.1.26",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
